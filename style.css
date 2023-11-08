@@ -30,20 +30,23 @@ header{
     box-shadow: 2px 2px 20px 2px rgb(2, 255, 2);
 }
 .container {
-    height: 400px;
+    height: 500px;
     width: 100%;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
 }
 .fon{
     width: 50%;
     height: 100%;
-    background-image: url(images/Group76.png);
+    background-image: url(image/Group\ 76.png);
     background-size: 80% 90%;
     background-position: bottom;
     background-repeat: no-repeat;
+    
+
 }
 .text{
     font-size: 50px;
     margin-top: 20px;
-    position: relative;
-    left: 50px;
 }
