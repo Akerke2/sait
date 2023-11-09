@@ -50,3 +50,62 @@ header{
     font-size: 50px;
     margin-top: 20px;
 }
+.absalute{
+    width: 80%;
+    height: 200px;
+    background-color: aqua;
+    position: absolute;
+    top: 550px;
+    bottom: 0px;
+    background: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.div{
+    width: 22%;
+    height: 170px;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 2px 2px 20px 2px rgba(0, 0, 0, 0.205);
+    bottom: 0;
+}
+.div_img{
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.div3_img{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
+.div_p{
+    margin-left: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.div1{
+    width: 22%;
+    height: 170px;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 2px 2px 20px 2px rgba(0, 0, 0, 0.205);
+    bottom: 0;
+}
+.div2{
+    width: 22%;
+    height: 170px;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 2px 2px 20px 2px rgba(0, 0, 0, 0.205);
+    bottom: 0;
+}
+.div3{
+    width: 22%;
+    height: 170px;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 2px 2px 20px 2px rgba(0, 0, 0, 0.205);
+    bottom: 0;
+}
